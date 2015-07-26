@@ -1,8 +1,12 @@
+.DS_Store
+._.*
 *.gem
+*.iml
 *.rbc
 /.config
 /coverage/
 /InstalledFiles
+/output/
 /pkg/
 /spec/reports/
 /test/tmp/
